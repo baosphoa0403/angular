@@ -1,0 +1,5 @@
+npm i bootstrap jquery popper.js --save 
+npm i font-awesome angular-font-awesome --save
+start ng serve --open
+create module: ng g m trang-chu
+component: ng g c header 
